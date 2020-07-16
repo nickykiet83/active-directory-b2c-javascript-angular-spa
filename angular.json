@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "active-directory-b2c-javascript-angular-spa"
+    }
+  },
+  "defaultProject": "active-directory-b2c-javascript-angular-spa",
+  "cli": {
+    "analytics": false
+  }
 }
